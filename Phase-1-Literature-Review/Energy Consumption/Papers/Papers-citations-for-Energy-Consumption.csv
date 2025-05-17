@@ -1,0 +1,45 @@
+﻿Authors,Title,Publication,Year,Publisher
+"Husom, Erik Johannes; Goknil, Arda; Astekin, Merve; Shar, Lwin Khin; Kåsen, Andre; Sen, Sagar; Mithassel, Benedikt Andreas; Soylu, Ahmet;","Sustainable LLM Inference for Edge AI: Evaluating Quantized LLMs for Energy Efficiency, Output Accuracy, and Inference Latency",arXiv preprint arXiv:2504.03360,2025,
+"Moussaid, Aicha;",Investigating the Impact of Prompt Engineering Techniques on Energy Consumption in Large Language Models,,2024,
+"Argerich, Mauricio Fadel; Patiño-Martínez, Marta;",Measuring and improving the energy efficiency of large language models inference,IEEE Access,2024,IEEE
+"Poddar, Soham; Koley, Paramita; Misra, Janardan; Podder, Sanjay; Ganguly, Niloy; Ghosh, Saptarshi;",Towards Sustainable NLP: Insights from Benchmarking Inference Energy in Large Language Models,arXiv preprint arXiv:2502.05610,2025,
+"Khan, Tahniat; Motie, Soroor; Kocak, Sedef Akinli; Raza, Shaina;","Optimizing Large Language Models: Metrics, Energy Efficiency, and Case Study Insights",arXiv preprint arXiv:2504.06307,2025,
+"Husom, Erik Johannes; Goknil, Arda; Shar, Lwin Khin; Sen, Sagar;",The Price of Prompting: Profiling Energy Use in Large Language Models Inference,,2024,NEURIps
+"Bast, Sebastian; Begic Fazlic, Lejla; Naumann, Stefan; Dartmann, Guido;","LLMs on the Edge: Quality, Latency, and Energy Efficiency",INFORMATIK 2024,2024,Gesellschaft für Informatik eV
+"Tran, Nguyen Phuc; Jaumard, Brigitte; Delgado, Oscar;",Energy-Aware LLMs: A step towards sustainable AI for downstream applications,arXiv preprint arXiv:2503.17783,2025,
+"Wang, Zhehui; Luo, Tao; Liu, Cheng; Liu, Weichen; Goh, Rick Siow Mong; Wong, Weng-Fai;",Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small,IEEE Transactions on Pattern Analysis and Machine Intelligence,2024,IEEE
+"Ilager, Shashikant; Briem, Lukas Florian; Brandic, Ivona;",GREEN-CODE: Optimizing Energy Efficiency in Large Language Models for Code Generation,,2025,ACM
+"Azimi, Zoha; Farahani, Reza; Timmerer, Christian; Prodan, Radu;",Towards an Energy-Efficient Video Processing Tool with LLMs,Proceedings of the 4th Mile-High Video Conference,2025,
+"Xiao, Tong; Xu, Peng;",Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models,Energy and Buildings,2024,Elsevier
+"Knunyants, Ivan; Tavakol, Maryam; Sifalakis, Manolis; Xu, Yingfu; Yousefzadeh, Amirreza; Tang, Guangzhi;",Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing,arXiv preprint arXiv:2501.16337,2025,
+"Khanuja, Apoorv;","Leveraging Natural Language Processing and Large Language Models to Understand, Categorize, and Standardize Building Energy Efficiency Measures",,2024,University of Cincinnati
+"Lin, Hsiao-Ying; Voas, Jeffrey;",Lower energy large language models (LLMs),Computer,2023,IEEE Computer Society
+"Bal, Malyaban; Sengupta, Abhronil;",Training Energy-Efficient Large Language Models Leveraging Equilibrium Driven Bio-Plausible Neural Dynamics,ICML 2024 Workshop on LLMs and Cognition,,
+"Riccardo Rubei, Aicha Moussaid, Claudio Di Sipio, Davide Di Ruscio",Prompt engineering and its implications on the energy consumption of Large Language Models,,2025,GREENS '25
+"Argerich, Mauricio Fadel (57211430232); Patino-Martinez, Marta (35579712000)",Measuring and Improving the Energy Efficiency of Large Language Models Inference,,2024,Scopus
+"Wang, Zhehui (51261648300); Luo, Tao (57205249350); Liu, Cheng (57191676782); Liu, Weichen (58781444700); Goh, Rick Siow Mong (35388108200); Wong, Weng-Fai (7403972501)",Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small,,2025,Scopus
+M. F. Argerich and M. PatiÃ±o-MartÃ­nez,Measuring and Improving the Energy Efficiency of Large Language Models Inference,,2024,IEEE Xplore
+"A. Singh, N. P. Patel, A. Ehtesham, S. Kumar and T. T. Khoei","A Survey of Sustainability in Large Language Models: Applications, Economics, and Challenges",,2025,IEEE Xplore
+"J. Sharda, P. -K. Hsu and S. Yu",Accelerator Design using 3D Stacked Capacitorless DRAM for Large Language Models,,2024,IEEE Xplore
+"R. K. Kodali, Y. P. Upreti and L. Boppana",A Quantization Approach for the Reduced Size of Large Language Models,,2024,IEEE Xplore
+S. L. R,Open-Source Large Language Models: A Comprehensive Survey,,2025,IEEE Xplore
+"Y. Zhu, C. Wang, M. Calman, R. Nakazawa and E. K. Lee",Optimizing GPU Multiplexing for Efficient and Cost-Effective Access to Diverse Large Language Models in GPU Clusters,,2024,IEEE Xplore
+Z. Chen et al.,An Empirical Study on the Power Consumption of LLMs with Different GPU Platforms,,2024,IEEE Xplore
+"J. Shi, Z. Yang, H. J. Kang, B. Xu, J. He and D. Lo",Greening Large Language Models of Code,,2024,IEEE Xplore
+"Z. R. K. Rostam, S. SzÃ©nÃ¡si and G. KertÃ©sz",Achieving Peak Performance for Large Language Models: A Systematic Review,,2024,IEEE Xplore
+"X. Li, Y. Ma, Y. Huang, X. Wang, Y. Lin and C. Zhang",Synergized Data Efficiency and Compression (SEC) Optimization for Large Language Models,,2024,IEEE Xplore
+"F. Liu, N. Yang, Z. Song, Z. Wang and L. Jiang",HOLES: Boosting Large Language Models Efficiency with Hardware-Friendly Lossless Encoding,,2024,IEEE Xplore
+"Z. Wang, T. Luo, C. Liu, W. Liu, R. S. M. Goh and W. -F. Wong",Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small,,2025,IEEE Xplore
+"R. Donakanti, P. Jain, S. Kulkarni and K. Vaidhyanathan",Reimagining Self-Adaptation in the Age of Large Language Models,,2024,IEEE Xplore
+"N. Alnaasan, H. -R. Huang, A. Shafi, H. Subramoni and D. K. Panda",Characterizing Communication in Distributed Parameter-Efficient Fine-Tuning for Large Language Models,,2024,IEEE Xplore
+"H. H. Mohammed, G. Kiss, J. A. Serrano and F. Lindseth",Dynamic Insights: Well-being Activity Infused Fine-Tuning of Large Language Models,,2024,IEEE Xplore
+S. Dash et al.,Optimizing Distributed Training on Frontier for Large Language Models,,2024,IEEE Xplore
+D. Huang and Z. Wang,Optimizing Chinese-to-English Translation Using Large Language Models,,2025,IEEE Xplore
+"R. Qin, Y. Hu, Z. Yan, J. Xiong, A. Abbasi and Y. Shi",FL-NAS: Towards Fairness of NAS for Resource Constrained Devices via Large Language Models,,2024,IEEE Xplore
+"C. Delgado-Solorzano, M. DelaFlor and C. Toxtli",Assessing the Syllogistic Logic and Fact-Checking Capabilities of Large Language Models,,2024,IEEE Xplore
+"Y. Guo, Y. Lang and Q. Ren",GPTQT: Quantize Large Language Models Twice to Push the Efficiency,,2024,IEEE Xplore
+"M. Isaev, N. McDonald, L. Dennison and R. Vuduc",Calculon: a Methodology and Tool for High-Level Codesign of Systems and Large Language Models,,2023,IEEE Xplore
+"G. Crumrine, I. Alsmadi, J. Guerrero, Y. Munian and M. Al-Abdullah",Transforming Computer Security and Public Trust Through the Exploration of Fine-Tuning Large Language Models,,2024,IEEE Xplore
+"G. Rocchietti, C. Rulli, F. Maria Nardini, C. Ioana Muntean, R. Perego and O. Frieder",ChatGPT Versus Modest Large Language Models: An Extensive Study on Benefits and Drawbacks for Conversational Search,,2025,IEEE Xplore
+"H. Qi, L. Dai, W. Chen, Z. Jia and X. Lu",Performance Characterization of Large Language Models on High-Speed Interconnects,,2023,IEEE Xplore
+"M. Seo, S. Jeong, H. -J. Lee and X. T. Nguyen",Real Post-Training Quantization Framework for Resource-Optimized Multiplier in LLMs,,2024,IEEE Xplore
