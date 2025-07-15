@@ -1,33 +1,11 @@
 # Foundations for ExAEquo: A Review of Explainability, Accuracy, and Energy Consumption in LLMs
-Replication Package for the "Foundations of LLMs: A Review of Explainability, Accuracy, and Energy Consumption" paper
+Replication Package for the "LLMs Exposed: Understanding Their Power, Pitfalls, and Energy Demands" paper
 
-Abstract - The increasing adoption of Large Language Models (LLMs) for AI-
-assisted code generation in high-stakes domains, such as healthcare
-and legal applications, requires a structured approach to model se-
-lection. Key concerns include explainability, accuracy, and energy
-consumption, as these factors directly impact compliance, account-
-ability, and sustainability. This research presents the findings of a
-systematic literature review.
+Abstract - The increasing adoption of Large Language Models (LLMs) for AI-assisted code generation in high-stakes domains, such as healthcare and legal applications, requires a structured approach to model selection. Key concerns include explainability, accuracy, and energy consumption, as these factors directly impact compliance, accountability, and sustainability. This research presents the findings of a systematic literature review.
 
-By adopting an integrated methodology combining automated
-search, snowballing, and qualitative thematic analysis, we: (i) estab-
-lish definitions for explainability, accuracy, and energy consump-
-tion in the context of LLMs, (ii) identify the most prevalent di-
-mensions of these factors in peer-reviewed studies published since
-2023: actionability, fidelity, and interpretability for explainability;
-benchmark performance and correctness for accuracy; and infer-
-ence workload, model size, and optimization techniques for energy
-consumption, and (iii) uncover key research gaps: explainability,
-accuracy, and energy consumption are often treated as unified con-
-cepts; the energy consumption concept is frequently misunderstood
-in the LLM literature; critical aspects such as trasparency for ex-
-plainability, security for accuracy, and deployment environments for
-energy consumption remain underexplored.
+By adopting an integrated methodology combining automated search, snowballing, and qualitative thematic analysis, we: (i) establish definitions for explainability, accuracy, and energy consumption in the context of LLMs, (ii) identify the most prevalent dimensions of these factors in peer-reviewed studies published since 2023: actionability, fidelity, and interpretability for explainability; benchmark performance and correctness for accuracy; and inference workload, model size, and optimization techniques for energy consumption, and (iii) uncover key research gaps: explainability, accuracy, and energy consumption are often treated as unified concepts; the energy consumption concept is frequently misunderstood in the LLM literature; critical aspects such as trasparency for explainability, security for accuracy, and deployment environments for energy consumption remain underexplored.
 
-This literature review offers a structured map of the current
-research landscape and exposes the trade-offs that ICT professionals
-must consider when selecting LLMs for responsible and efficient
-deployment.
+This literature review offers a structured map of the current research landscape and exposes the trade-offs that ICT professionals must consider when selecting LLMs for responsible and efficient deployment.
 
 ## Overview of the replication package
 This replication package is structured as follows:
