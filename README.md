@@ -1,16 +1,13 @@
 # Foundations for ExAEquo: A Review of Explainability, Accuracy, and Energy Consumption in LLMs
-Replication Package for the "Foundations for ExAEquo: A Review of Explainability, Accuracy, and Energy Consumption in LLMs" paper
+Replication Package for the "Foundations of LLMs: A Review of Explainability, Accuracy, and Energy Consumption" paper
 
 Abstract - The increasing adoption of Large Language Models (LLMs) for AI-
 assisted code generation in high-stakes domains, such as healthcare
-and legal applications, necessitates a structured approach to model
-selection. Key concerns include explainability, accuracy, and energy
+and legal applications, requires a structured approach to model se-
+lection. Key concerns include explainability, accuracy, and energy
 consumption, as these factors directly impact compliance, account-
-ability, and sustainability. This research presents the findings of
-a systematic literature review and forms the foundational phase
-of ExAEquo, an actionable framework designed to support ICT
-professionals in making informed decisions when selecting LLMs
-for code generation tasks.
+ability, and sustainability. This research presents the findings of a
+systematic literature review.
 
 By adopting an integrated methodology combining automated
 search, snowballing, and qualitative thematic analysis, we: (i) estab-
@@ -27,9 +24,8 @@ in the LLM literature; critical aspects such as trasparency for ex-
 plainability, security for accuracy, and deployment environments for
 energy consumption remain underexplored.
 
-This literature review lays the conceptual groundwork for the
-design of ExAEquo by offering a structured map of the current re-
-search landscape and exposing the trade-offs that ICT professionals
+This literature review offers a structured map of the current
+research landscape and exposes the trade-offs that ICT professionals
 must consider when selecting LLMs for responsible and efficient
 deployment.
 
