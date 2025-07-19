@@ -1,4 +1,4 @@
-# Foundations for ExAEquo: A Review of Explainability, Accuracy, and Energy Consumption in LLMs
+# LLMs Exposed: Understanding Their Power, Pitfalls, and Energy Demands
 Replication Package for the "LLMs Exposed: Understanding Their Power, Pitfalls, and Energy Demands" paper
 
 Abstract - The increasing adoption of Large Language Models (LLMs) for AI-assisted code generation in high-stakes domains, such as healthcare and legal applications, requires a structured approach to model selection. Key concerns include explainability, accuracy, and energy consumption, as these factors directly impact compliance, accountability, and sustainability. This research presents the findings of a systematic literature review.
