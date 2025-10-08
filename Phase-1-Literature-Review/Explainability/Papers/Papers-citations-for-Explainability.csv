@@ -1,159 +1,220 @@
-﻿Authors,Title,Publication,Year,Publisher,
-"Beamish, David; Exarchakis, Georgios;",Large Language Models for Explainability in Machine Learning,,,,
-"Penicig, James; Chen, Benjamin; Wilson, Scott; Garcia, Sophia;",Assessing explainability in large language models through soft counterfactual analysis: A comparative study of google gemini and openai chatgpt,,2024,,
-"Ivanov, Yuri;",Understanding the inner workings of large language models: Interpretability and explainability,MZ Journal of Artificial Intelligence,2024,,
-"Quttainah, Majdi; Mishra, Vinaytosh; Madakam, Somayya; Lurie, Yotam; Mark, Shlomo;","Cost, usability, credibility, fairness, accountability, transparency, and explainability framework for safe and effective large language models in medical education: Narrative review and qualitative study",Jmir Ai,2024,"JMIR Publications Inc., Toronto, Canada",
-"San Miguel, Gabriela Sanchez; Griffith, Henry; Silva, Jacob; Rathore, Heena;",Evaluating the Explainability of Large Language Models for Ethical Decision Making,2025 IEEE International Conference on Consumer Electronics (ICCE),2025,IEEE,
-"Ehsan, Upol; Watkins, Elizabeth A; Wintersberger, Philipp; Manger, Carina; Kim, Sunnie SY; Van Berkel, Niels; Riener, Andreas; Riedl, Mark O;",Human-centered explainable AI (HCXAI): Reloading explainability in the era of large language models (LLMs),Extended Abstracts of the CHI Conference on Human Factors in Computing Systems,2024,,
-"Spitzer, Philipp; Celis, Sebastian; Martin, Dominik; Kühl, Niklas; Satzger, Gerhard;",Looking Through the Deep Glasses: How Large Language Models Enhance Explainability of Deep Learning Models,Proceedings of Mensch und Computer 2024,2024,,
-"Mohammadi, Seyedali; Raff, Edward; Malekar, Jinendra; Palit, Vedant; Ferraro, Francis; Gaur, Manas;",WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions,arXiv preprint arXiv:2406.12058,2024,,
-"Figênio, Mateus R; Santanché, André; Gomes-Jr, Luiz;",The Impact of Activation Patterns in the Explainability of Large Language Models–A Survey of recent advances,Escola Regional de Banco de Dados (ERBD),2024,SBC,
-"Wu, Shi; Zhou, Jianlong; Dong, Yifei; Chen, Fang;",Enhancing Explainability of Deep Learning-Based ECG Diagnosis Using Large Language Models,Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence,2024,,
-"Hu, Yuanyuan; Giacaman, Nasser; Donald, Claire;",Enhancing Trust in Generative AI: Investigating Explainability of LLMs to Analyse Confusion in MOOC Discussions.,LAK Workshops,2024,,
-"Chen, Guanxu; Liu, Dongrui; Luo, Tao; Shao, Jing;",SEER: Self-Explainability Enhancement of Large Language Models' Representations,arXiv preprint arXiv:2502.05242,2025,,
-"Amara, Jihen; König-Ries, Birgitta; Samuel, Sheeba;",Enhancing explainability in multimodal large language models using ontological context,arXiv preprint arXiv:2409.18753,2024,,
-"Tan, Ting Fang; Elangovan, Kabilan; Ong, Jasmine; Shah, Nigam; Sung, Joseph; Wong, Tien Yin; Xue, Lan; Liu, Nan; Wang, Haibo; Kuo, Chang Fu;","A proposed score evaluation framework for large language models: Safety, consensus, objectivity, reproducibility and explainability",arXiv preprint arXiv:2407.07666,2024,,
-"Bogaert, Jeremie; Standaert, François-Xavier;",A question on the explainability of large language models and the word-level univariate first-order plausibility assumption,arXiv preprint arXiv:2403.10275,2024,,
-"Held, Jan; Itani, Hani; Cioppa, Anthony; Giancola, Silvio; Ghanem, Bernard; Van Droogenbroeck, Marc;",X-vars: Introducing explainability in football refereeing with multi-modal large language models,Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition,2024,,
-"Pramanik, Vishal; Maliha, Maisha; Jha, Sumit Kumar;",Enhancing Integrated Gradients Using Emphasis Factors and Attention for Effective Explainability of Large Language Models,,,,
-"Tan, Ting Fang; Elangovan, Kabilan; Ong, Jasmine Chiat Ling; Lee, Aaron; Shah, Nigam H; Sung, Joseph JY; Wong, Tien Yin; Lan, Xue; Liu, Nan; Wang, Haibo;","A Proposed SCORE Evaluation Framework for Large Language Models–Safety, Consensus & Context, Objectivity, Reproducibility and Explainability","Consensus & Context, Objectivity, Reproducibility and Explainability",,,
-"Chen, Yanfang; Chen, Ding; Song, Shichao; Niu, Simin; Wang, Hanyu; Tang, Zeyun; Xiong, Feiyu; Li, Zhiyu;",Hrde: Retrieval-augmented large language models for chinese health rumor detection and explainability,arXiv preprint arXiv:2407.00668,2024,,
-"Paul, Anthony Lawrence;",Improving Explainability in Large Language Models (LLMs),,,,
-"Shui, Xia; Ru, Zhihao;",Bridging the Gap Between Explainability and Large Language Models,,2025,,
-"Li, Lingfang; Sen, Procheta;",Unraveling the Influence of Training Data and Internal Structures in Large Language Models for Enhanced Explainability (Student Abstract),Proceedings of the AAAI Conference on Artificial Intelligence,2025,,
-"Romero, Ma Angelina Alarcón; Trejo, José Antonio Orizaga; Mota, Daniel Hernández; Villalpando, Luis Fernando Baltazar; Herrera, Ma Hidalia Cruz;","Enhancing Explainability, Privacy, and Fairness in Recidivism Prediction through Local LLMs and Synthetic data",International Journal of Combinatorial Optimization Problems and Informatics,2025,International Journal of Combinatorial Optimization Problems & Informatics,
-Adrian M.P. Brasoveanu; Arno Scharl; Lyndon J.B. Nixon; Răzvan Andonie,Visualizing Large Language Models: A Brief Survey,,,IEEE,
-Zina Chkirbene; Ridha Hamila; Ala Gouissem; Unal Devrim,"Large Language Models (LLM) in Industry: A Survey of Applications, Challenges, and Trends",,,IEEE,
-Ishika Shruti; Amol Kumar; Arjun Seth; Rajeev Ranjan N,Responsible Generative AI: A Comprehensive Study to Explain LLMs,,,IEEE,
-"Eric Mugnier, Emmanuel Anaya Gonzalez, Nadia Polikarpova, Ranjit Jhala, and Zhou Yuanyuan",Laurel: Unblocking Automated Verification with Large Language Models,,2025,ACM,
-"Michael R. Lyu, Baishakhi Ray, Abhik Roychoudhury, Shin Hwei Tan, and Patanamon Thongtanunam",Automatic Programming: Large Language Models and Beyond,,2024,ACM,
-"Quanjun Zhang, Weifeng Sun, Chunrong Fang, Bowen Yu, Hongyan Li, Meng Yan, Jianyi Zhou, and Zhenyu Chen",Exploring Automated Assertion Generation via Large Language Models,,2025,ACM,
-"Xin Wang, Hong Chen, Zirui Pan, Yuwei Zhou, Chaoyu Guan, Lifeng Sun, and Wenwu Zhu",Automated Disentangled Sequential Recommendation with Large Language Models,,2025,ACM,
-"Sirui Huang, Qian Li, Haoran Yang, Dianer Yu, Qing Li, and Guandong Xu",Causal Time-aware News Recommendations with Large Language Models,,2025,ACM,
-"Wenyu Mao, Jiancan Wu, Weijian Chen, Chongming Gao, Xiang Wang, and Xiangnan He",Reinforced Prompt Personalization for Recommendation with Large Language Models,,2025,ACM,
-"Lei Chen, Chen Gao, Xiaoyi Du, Hengliang Luo, Depeng Jin, Yong Li, and Meng Wang",Enhancing ID-based Recommendation with Large Language Models,,2024,ACM,
-"Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, and Jundong Li",Knowledge Editing for Large Language Models: A Survey,,2024,ACM,
-Daniel E. O'Leary Jr,USING LARGE LANGUAGE MODELS FOR ARMCHAIR AUDITORS,,2024,ACM,
-"Rudolf Chow, King Yiu Suen, and Albert Y.S. Lam",On Leveraging Large Language Models for Multilingual Intent Discovery,,2025,ACM,
-"Mirko Franco, Ombretta Gaggi, and Claudio E. Palazzi",Integrating Content Moderation Systems with Large Language Models,,2024,ACM,
-"Andrew Blinn, Xiang Li, June Hyung Kim, and Cyrus Omar",Statically Contextualizing Large Language Models with Typed Holes,,2024,ACM,
-"Xu Huang, Jianxun Lian, Yuxuan Lei, Jing Yao, Defu Lian, and Xing Xie",Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations,,2025,ACM,
-"Jianchao Ji, Zelong Li, Shuyuan Xu, Wenyue Hua, Juntao Tan, Haoming Gong, and Yongfeng Zhang",Probing the Symbolic Logical Reasoning Ability of Large Language Models,,2025,ACM,
-"Badhan Chandra Das, M. Hadi Amini, and Yanzhao Wu",Security and Privacy Challenges of Large Language Models: A Survey,,2025,ACM,
-"Qiang Zhang, Keyan Ding, Tianwen Lv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Mengyao Zhang, Jinlu Zhang, Jiyu Cui, Renjun Xu, Hongyang Chen, Xiaohui Fan, Huabin Xing, and Huajun Chen",Scientific Large Language Models: A Survey on Biological &amp; Chemical Domains,,2025,ACM,
-"Haoran Xin, Ying Sun, Chao Wang, and Hui Xiong",LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models,,2025,ACM,
-"Chen Fang, Yidong Wang, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, and Xin Li",How do Large Language Models understand Genes and Cells,,2024,ACM,
-"Haiyan Zhao, Hanjie Chen, Fan Yang, Ninghao Liu, Huiqi Deng, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, and Mengnan Du",Explainability for Large Language Models: A Survey,,2024,ACM,
-"Yue Zheng, Yuhao Chen, Bin Qian, Xiufang Shi, Yuanchao Shu, and Jiming Chen","A Review on Edge Large Language Models: Design, Execution, and Applications",,2025,ACM,
-"Xinyi Hou, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang",Large Language Models for Software Engineering: A Systematic Literature Review,,2024,ACM,
-"Mengxi Zhang, Huaxiao Liu, Changhao Du, Tengmei Wang, Han Li, Pei Huang, and Chunyang Chen",Distinguishing GUI Component States for Blind Users using Large Language Models,,2025,ACM,
-Victor Giannakouris and Immanuel Trummer,Î»-Tune: Harnessing Large Language Models for Automated Database System Tuning,,2025,ACM,
-"Benjamin Ampel, Chi-Heng Yang, James Hu, and Hsinchun Chen",Large Language Models for Conducting Advanced Text Analytics Information Systems Research,,2025,ACM,
-"Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, and Xing Xie",A Survey on Evaluation of Large Language Models,,2024,ACM,
-"Zhiyuan Wang, Fangxu Yuan, Virginia LeBaron, Tabor Flickinger, and Laura E. Barnes",PALLM: Evaluating and Enhancing PALLiative Care Conversations with Large Language Models,,2025,ACM,
-Diego Carraro and Derek Bridge,Enhancing Recommendation Diversity by Re-ranking with Large Language Models,,2024,ACM,
-"Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang, and Weinan Zhang",How Can Recommender Systems Benefit from Large Language Models: A Survey,,2025,ACM,
-"Ashly Ann Jo, Ebin Deni Raj, and Jayakrushna Sahoo",Efficiency and Performance Optimization in Large Language Models through IB Fine-Tuning,,2025,ACM,
-"Qinbin Li, Junyuan Hong, Chulin Xie, Jeffrey Tan, Rachel Xin, Junyi Hou, Xavier Yin, Zhun Wang, Dan Hendrycks, Zhangyang Wang, Bo Li, Bingsheng He, and Dawn Song",LLM-PBE: Assessing Data Privacy in Large Language Models,,2024,ACM,
-Francesco Periti and Stefano Montanelli,Lexical Semantic Change through Large Language Models: a Survey,,2024,ACM,
-"Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, Zhengyi Yang, Yanchen Luo, Chong Chen, Fuli Feng, and Qi Tian",A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems,,2025,ACM,
-"Qi Yang, Aleksandr Farseev, Marlo Ongpin, Alfred Huang, Yu-Yi Chu-Farseeva, Da-Min You, Kirill Lepikhin, and Sergey Nikolenko",Fusing Predictive and Large Language Models for Actionable Recommendations In Creative Marketing,,2025,ACM,
-"Chenyuan Yang, Yinlin Deng, Runyu Lu, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, and Lingming Zhang",WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models,,2024,ACM,
-"Thomas Weber, Maximilian Brandmaier, Albrecht Schmidt, and Sven Mayer",Significant Productivity Gains through Programming with Large Language Models,,2024,ACM,
-"Anastasiia Grishina, Vadim Liventsev, Aki H\""{a}rm\""{a}, and Leon Moonen",Fully Autonomous Programming Using Iterative Multi-Agent Debugging with Large Language Models,,2025,ACM,
-"Huili Wang, Chuhan Wu, Yongfeng Huang, and Tao Qi",Learning Human Feedback from Large Language Models for Content Quality-aware Recommendation,,2025,ACM,
-"Gabriele Civitarese, Michele Fiori, Priyankar Choudhary, and Claudio Bettini",Large Language Models are Zero-Shot Recognizers for Activities of Daily Living,,2025,ACM,
-Iain J. Cruickshank and Lynnette Hui Xian Ng,Prompting and Fine-Tuning Open-Sourced Large Language Models for Stance Classification,,2025,ACM,
-"Xuanhe Zhou, Guoliang Li, Zhaoyan Sun, Zhiyuan Liu, Weize Chen, Jianming Wu, Jiesi Liu, Ruohang Feng, and Guoyang Zeng",D-Bot: Database Diagnosis System using Large Language Models,,2024,ACM,
-"Sahil Mishra, Ujjwal Sudev, and Tanmoy Chakraborty",FLAME: Self-Supervised Low-Resource Taxonomy Expansion Using Large Language Models,,2024,ACM,
-"Jingyu Pan, Guanglei Zhou, Chen-Chia Chang, Isaac Jacobson, Jiang Hu, and Yiran Chen",A Survey of Research in Large Language Models for Electronic Design Automation,,2025,ACM,
-"Runjie Yu, Weizhou Huang, Shuhan Bai, Jian Zhou, and Fei Wu",AquaPipe: A Quality-Aware Pipeline for Knowledge Retrieval and Large Language Models,,2025,ACM,
-"Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, Xiu Tang, Junbo Zhao, and Haobo Wang",CORAL: Collaborative Automatic Labeling System Based on Large Language Models,,2024,ACM,
-"Minh-Thanh Bui, Matteo Boffa, Rodolfo Vieira Valentim, Jose Manuel Navarro, Fuxing Chen, Xiaosheng Bao, Zied Ben Houidi, and Dario Rossi",A Systematic Comparison of Large Language Models Performance for Intrusion Detection,,2024,ACM,
-"Haopeng Zhang, Philip S. Yu, and Jiawei Zhang",A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models,,2025,ACM,
-"Fengjie Li, Jiajun Jiang, Jiajun Sun, and Hongyu Zhang",Hybrid Automated Program Repair by Combining Large Language Models and Program Analysis,,2025,ACM,
-"Jayr Pereira, Andre Assumpcao, Julio Trecenti, Luiz Airosa, Caio Lente, Jhonatan Cl\'{e}to, Guilherme Dobins, Rodrigo Nogueira, Luis Mitchell, and Roberto Lotufo",INACIA: Integrating Large Language Models in Brazilian Audit Courts: Opportunities and Challenges,,2025,ACM,
-"Gun Il Kim, Sunga Hwang, and Beakcheol Jang",Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review,,2025,ACM,
-Grace Ataguba and Rita Orji,Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management,,2025,ACM,
-"Fan Liu, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, and Mohan Kankanhalli",Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models,,2025,ACM,
-"Yunjia Xi, Weiwen Liu, Jianghao Lin, Muyan Weng, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming TANG, Yong Yu, and Weinan Zhang",Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models,,2025,ACM,
-"Gina Sprint, Maureen Schmitter-Edgecombe, Raven Weaver, Lisa Wiese, and Diane J. Cook",CogProg: Utilizing Large Language Models to Forecast In-the-moment Health Assessment,,2024,ACM,
-"Mengyi Yan, Yaoshu Wang, Yue Wang, Xiaoye Miao, and Jianxin Li",GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models,,2024,ACM,
-"Kedar Thiagarajan, Esteban Carisimo, and Fabi\'{a}n E. Bustamante",The Aleph: Decoding Geographic Information from DNS PTR Records Using Large Language Models,,2025,ACM,
-"Ting Zhang, Ivana Clairine Irsan, Ferdian Thung, and David Lo",Revisiting Sentiment Analysis for Software Engineering in the Era of Large Language Models,,2025,ACM,
-"Zhenyu Xu, Hailin Xu, Zhouyang Lu, Yingying Zhao, Rui Zhu, Yujiang Wang, Mingzhi Dong, Yuhu Chang, Qin Lv, Robert P. Dick, Fan Yang, Tun Lu, Ning Gu, and Li Shang",Can Large Language Models Be Good Companions? An LLM-Based Eyewear System with Conversational Common Ground,,2024,ACM,
-"Zuoli Tang, Zhaoxin Huan, Zihao Li, Xiaolu Zhang, Jun Hu, Chilin Fu, Jun Zhou, Lixin Zou, and Chenliang Li",One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems,,2024,ACM,
-"Juan Morales-Garc\'{\i}a, Antonio Llanes, Francisco Arcas-T\'{u}nez, and Fernando Terroso-S\'{a}enz",Developing Time Series Forecasting Models with Generative Large Language Models,,2024,ACM,
-"Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, and Philip Yu",A Survey of Text Watermarking in the Era of Large Language Models,,2024,ACM,
-"Martin Weyssow, Xin Zhou, Kisub Kim, David Lo, and Houari Sahraoui",Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models,,2025,ACM,
-"Lizhou Fan, Lingyao Li, Zihui Ma, Sanggyu Lee, Huizi Yu, and Libby Hemphill",A Bibliometric Review of Large Language Models Research from 2017 to 2023,,2024,ACM,
-Eric D. Manley,Getting Started with Large Language Models for the CS Curriculum,,2024,ACM,
-"Cuiyun Gao, Xing Hu, Shan Gao, Xin Xia, and Zhi Jin",The Current Challenges of Software Engineering in the Era of Large Language Models,,2025,ACM,
-"Yuxi Li, Yi Liu, Gelei Deng, Ying Zhang, Wenjia Song, Ling Shi, Kailong Wang, Yuekang Li, Yang Liu, and Haoyu Wang",Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection,,2024,ACM,
-"Chuanpeng Yang, Yao Zhu, Wang Lu, Yidong Wang, Qian Chen, Chenlong Gao, Bingjie Yan, and Yiqiang Chen","Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application",,2024,ACM,
-"Ningke Li, Yuekang Li, Yi Liu, Ling Shi, Kailong Wang, and Haoyu Wang",Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models,,2024,ACM,
-"Stefano Lambiase, Gemma Catolino, Fabio Palomba, Filomena Ferrucci, and Daniel Russo",Investigating the Role of Cultural Values in Adopting Large Language Models for Software Engineering,,2025,ACM,
-"Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, and Ruiming Tang",A Unified Framework for Multi-Domain CTR Prediction via Large Language Models,,2024,ACM,
-"Pingchuan Ma, Zhaoyu Wang, Zongjie Li, Zhenlan Ji, Ao Sun, Juergen Rahmel, and Shuai Wang",Reeq: Testing and Mitigating Ethically Inconsistent Suggestions of Large Language Models with Reflective Equilibrium,,2025,ACM,
-"Shuo Liu, Lin Zhang, Weidong Liu, Jianfeng Zhang, Donghui Gao, and Xiaofeng Jia",The Evaluation Framework and Benchmark for Large Language Models in the Government Affairs Domain,,2025,ACM,
-"Nathaniel Pinckney, Christopher Batten, Mingjie Liu, Haoxing Ren, and Brucek Khailany",Revisiting VerilogEval: A Year of Improvements in Large-Language Models for Hardware Code Generation,,2025,ACM,
-"Raul Castro Fernandez, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan, and Chenhao Tan",How Large Language Models Will Disrupt Data Management,,2023,ACM,
-"Sorouralsadat Fatemi, Yuheng Hu, and Maryam Mousavi",A Comparative Analysis of Instruction Fine-Tuning Large Language Models for Financial Text Classification,,2025,ACM,
-"Zhiang Dong, Liya Hu, Jingyuan Chen, Zhihua Wang, and Fei Wu",Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data,,2025,ACM,
-"Jun-Peng Zhu, Peng Cai, Kai Xu, Li Li, Yishen Sun, Shuai Zhou, Haihuang Su, Liu Tang, and Qi Liu",AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models,,2024,ACM,
-"Yuanjie Lyu, Zhiyu Li, Simin Niu, Feiyu Xiong, Bo Tang, Wenjin Wang, Hao Wu, Huanyong Liu, Tong Xu, and Enhong Chen",CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,,2025,ACM,
-"Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, and Ting Liu","A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",,2025,ACM,
-"Madeline Endres, Sarah Fakhoury, Saikat Chakraborty, and Shuvendu K. Lahiri",Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions? Proc,,2024,ACM,
-"Elahe Hosseini, Abhinav Srinivas, Najmeh Nazari, Charity Hale, Setareh Rafatirad, and Houman Homayoun",Large Language Models for Opioid-Induced Respiratory Depression Prediction in Hospitalized Patients: A Retrospective Study,,2025,ACM,
-"Ju Fan, Zihui Gu, Songyue Zhang, Yuxin Zhang, Zui Chen, Lei Cao, Guoliang Li, Samuel Madden, Xiaoyong Du, and Nan Tang",Combining Small Language Models and Large Language Models for Zero-Shot NL2SQL,,2024,ACM,
-"Junghwan Rhee, Aakankshya Shrestha, Gang Qian, Fei Zuo, Jicheng Fu, Myungah Park, Xianshan Qu, Goutam Mylavarapu, and Hong Sung",An Evaluation on the Impact of Large Language Models on Computer Science Curricula,,2024,ACM,
-"Yongda Yu, Guoping Rong, Haifeng Shen, He Zhang, Dong Shao, Min Wang, Zhao Wei, Yong Xu, and Juhong Wang",Fine-Tuning Large Language Models to Improve Accuracy and Comprehensibility of Automated Code Review,,2024,ACM,
-"Amara Tariq, Shubham Trivedi, Aisha Urooj, Gokul Ramasamy, Sam Fathizadeh, Matthew Stib, Nelly Tan, Bhavik Patel, and Imon Banerjee",Patient-centric Summarization of Radiology Findings using Two-step Training of Large Language Models,,2024,ACM,
-"Jieke Shi, Zhou Yang, and David Lo",Efficient and Green Large Language Models for Software Engineering: Vision and the Road Ahead,,2024,ACM,
-"Aritra Hota, Soumyajit Chatterjee, and Sandip Chakraborty",Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data,,2024,ACM,
-"Roberto Navigli, Simone Conia, and Bj\""{o}rn Ross","Biases in Large Language Models: Origins, Inventory, and Discussion",,2023,ACM,
-"Tom Williams, Cynthia Matuszek, Ross Mead, and Nick Depalma",Scarecrows in Oz: The Use of Large Language Models in HRI,,2024,ACM,
-Ping Fan Ke and Ka Chung Ng,Human-AI Synergy in Survey Development: Implications from Large Language Models in Business and Research,,2025,ACM,
-"Buse Carik, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho","Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns",,2025,ACM,
-"Lanling Xu, Junjie Zhang, Bingqian Li, Jinpeng Wang, Sheng Chen, Wayne Xin Zhao, and Ji-Rong Wen",Tapping the Potential of Large Language Models as Recommender Systems: A Comprehensive Framework and Empirical Analysis,,2025,ACM,
-"Mengzhao Wang, Haotian Wu, Xiangyu Ke, Yunjun Gao, Xiaoliang Xu, and Lu Chen",An Interactive Multi-Modal Query Answering System with Retrieval-Augmented Large Language Models,,2024,ACM,
-"Soneya Binta Hossain, Nan Jiang, Qiang Zhou, Xiaopeng Li, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, and Omer Tripp",A Deep Dive into Large Language Models for Automated Bug Localization and Repair,,2024,ACM,
-"Feihu Jin, Yifan Liu, and Ying Tan","Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models. IEEE/ACM Trans. Audio, Speech and Lang",,2024,ACM,
-"Dawei Gao, Haibin Wang, Yaliang Li, Xiuyu Sun, Yichen Qian, Bolin Ding, and Jingren Zhou",Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation,,2024,ACM,
-"Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim",Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus,,2025,ACM,
-"Zejun Zhang, Zhenchang Xing, Xiaoxue Ren, Qinghua Lu, and Xiwei Xu",Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models,,2024,ACM,
-"Zhen Yang, Fang Liu, Zhongxing Yu, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, and Ge Li",Exploring and Unleashing the Power of Large Language Models in Automated Code Translation,,2024,ACM,
-"Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, and Tianyi Zhang",Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code? Proc,,2024,ACM,
-"Haochun Wang, Sendong Zhao, Zewen Qiang, Zijian Li, Chi Liu, Nuwa Xi, Yanrui Du, Bing Qin, and Ting Liu",Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Trustworthy Response Generation in Chinese,,2025,ACM,
-Anastasiia Hrytsyna and Rodrigo Alves,From Representation to Response: Assessing the Alignment of Large Language Models with Human Judgment Patterns,,2024,ACM,
-Michael Chau and Jennifer Xu,"An IS Research Agenda on Large Language Models: Development, Applications, and Impacts on Business and Management",,2025,ACM,
-"Yang Wu, Yao Wan, Hongyu Zhang, Yulei Sui, Wucai Wei, Wei Zhao, Guandong Xu, and Hai Jin",Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study,,2024,ACM,
-"Yumeng Li, Bohong Chen, Zhong Ren, Yao-Xiang Ding, Libin Liu, Tianjia Shao, and Kun Zhou",CPoser: An Optimization-after-Parsing Approach for Text-to-Pose Generation Using Large Language Models,,2024,ACM,
-"Siqiao Xue, Danrui Qi, Caigao Jiang, Fangyin Cheng, Keting Chen, Zhiping Zhang, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, Hong Yi, Shaodong Liu, Hongjun Yang, and Faqiang Chen",Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models,,2024,ACM,
-"Jing Wei, Sungdong Kim, Hyunhoon Jung, and Young-Ho Kim",Leveraging Large Language Models to Power Chatbots for Collecting User Self-Reported Data,,2024,ACM,
-"Luca Beurer-Kellner, Marc Fischer, and Martin Vechev",Prompting Is Programming: A Query Language for Large Language Models,,2023,ACM,
-"Yan Wang, Xiaoning Li, Tien N. Nguyen, Shaohua Wang, Chao Ni, and Ling Ding",Natural Is the Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models,,2024,ACM,
-Immanuel Trummer,Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models,,2024,ACM,
-Arash Dargahi Nobari and Davood Rafiei,DTT: An Example-Driven Tabular Transformer for Joinability by Leveraging Large Language Models,,2024,ACM,
-"Jiayu Zhou, Manas Gaur, Amir M. Rahmani, Sharath Chandra Guntuku, Xiaofan (Fred) Jiang, and Tristan Naumann","Introduction to the Special Issue on Large Language Models, Conversational Systems, and Generative AI in Health - Part 1",,2025,ACM,
-"Benjamin Feuer, Yurong Liu, Chinmay Hegde, and Juliana Freire",ArcheType: A Novel Framework for Open-Source Column Type Annotation Using Large Language Models,,2024,ACM,
-"Subash Neupane, Shaswata Mitra, Sudip Mittal, Manas Gaur, Noorbakhsh Amiri Golilarz, Shahram Rahimi, and Amin Amirlatifi",MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models,,2024,ACM,
-"Connor Lawless, Jakob Schoeffer, Lindy Le, Kael Rowan, Shilad Sen, Cristina St. Hill, Jina Suh, and Bahareh Sarrafzadeh",â€œI Want It That Wayâ€: Enabling Interactive Decision Support Using Large Language Models and Constraint Programming,,2024,ACM,
-Anna-Katharina Dhungel,â€œThis Verdict was Created with the Help of Generative AI...?â€ On the Use of Large Language Models by Judges,,2025,ACM,
-"Ahmad A Bany Abdelnabi, Bulent Soykan, Danish Bhatti, and Ghaith Rabadi",Usefulness of Large Language Models (LLMs) for Student Feedback on H&amp;P During Clerkship: Artificial Intelligence for Personalized Learning,,2025,ACM,
-Huiyuan Lai and Malvina Nissim,A Survey on Automatic Generation of Figurative Language: From Rule-based Systems to Large Language Models,,2024,ACM,
-"Giancarlo Crocetti, Seonwoo Bak, Daena D. Vautor-Laplaceliere, and Naqib A. Noory",Evaluating the Pedagogical Impact of Large Language Models on Programming Skills in Data Science Programs in Higher Education,,2024,ACM,
-"Yuka Kaniwa, Masaki Kuribayashi, Seita Kayukawa, Daisuke Sato, Hironobu Takagi, Chieko Asakawa, and Shigeo Morishima",ChitChatGuide: Conversational Interaction Using Large Language Models for Assisting People with Visual Impairments to Explore a Shopping Mall,,2024,ACM,
-"Riku Arakawa, Jill Fain Lehman, and Mayank Goel",PrISM-Q&amp;A: Step-Aware Voice Assistant on a Smartwatch Enabled by Multimodal Procedure Tracking and Large Language Models,,2024,ACM,
-"Jinlong Xue, Yayue Deng, Yingming Gao, and Ya Li","Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation. IEEE/ACM Trans. Audio, Speech and Lang",,2024,ACM,
-"Qian Wan, Siying Hu, Yu Zhang, Piaohong Wang, Bo Wen, and Zhicong Lu",It Felt Like Having a Second Mind: Investigating Human-AI Co-creativity in Prewriting with Large Language Models,,2024,ACM,
-"Spencer Presley, Cole Barbes, and Junyi Tu",Enhancing Academic Insight: Leveraging Web of Science Data with Large Language Models for Comprehensive Faculty and Article Analysis at Salisbury University*,,2024,ACM,
-Alexey Karev and Dong Xu,ConSCompF: Consistency-focused Similarity Comparison Framework for Generative Large Language Models,,2025,ACM,
-"Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, and Xing Xie",PromptBench: a unified library for evaluation of large language models,,2024,ACM,
-"Moschoula Pternea, Prerna Singh, Abir Chakraborty, Yagna Oruganti, Mirco Milletari, Sayli Bapat, and Kebei Jiang",The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models,,2024,ACM,
-"Evan King, Haoxiang Yu, Sangsu Lee, and Christine Julien",Sasha: Creative Goal-Oriented Reasoning in Smart Homes with Large Language Models,,2024,ACM,
-"Xuhai Xu, Bingsheng Yao, Yuanzhe Dong, Saadia Gabriel, Hong Yu, James Hendler, Marzyeh Ghassemi, Anind K. Dey, and Dakuo Wang",Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data,,2024,ACM,
-"Zachary Englhardt, Chengqian Ma, Margaret E. Morris, Chun-Cheng Chang, Xuhai ""Orson"" Xu, Lianhui Qin, Daniel McDuff, Xin Liu, Shwetak Patel, and Vikram Iyer",From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models,,2024,ACM,
-"Ayachitula, Sriya (59314044600)",Poster: Exploring Explainability Techniques for Large Language Model Classification Predictions,,2024,Scopus,
-"Wu, Shi (59697693300); Zhou, Jianlong (35304393400); Dong, Yifei (57938222100); Chen, Fang (55714370100)",Enhancing Explainability of Deep Learning-Based ECG Diagnosis Using Large Language Models,,2025,Scopus,
-"Hu, Yuanyuan (57215928954); Giacaman, Nasser (24528603500); Donald, Claire (52163422600)",Enhancing Trust in Generative AI: Investigating Explainability of LLMs to Analyse Confusion in MOOC Discussions,,2024,Scopus,
+Authors,Title,Publication,Year,Publisher
+"Beamish, David; Exarchakis, Georgios;",Large Language Models for Explainability in Machine Learning,,,
+"Penicig, James; Chen, Benjamin; Wilson, Scott; Garcia, Sophia;",Assessing explainability in large language models through soft counterfactual analysis: A comparative study of google gemini and openai chatgpt,,2024,
+"Ivanov, Yuri;",Understanding the inner workings of large language models: Interpretability and explainability,MZ Journal of Artificial Intelligence,2024,
+"Quttainah, Majdi; Mishra, Vinaytosh; Madakam, Somayya; Lurie, Yotam; Mark, Shlomo;","Cost, usability, credibility, fairness, accountability, transparency, and explainability framework for safe and effective large language models in medical education: Narrative review and qualitative study",Jmir Ai,2024,"JMIR Publications Inc., Toronto, Canada"
+"San Miguel, Gabriela Sanchez; Griffith, Henry; Silva, Jacob; Rathore, Heena;",Evaluating the Explainability of Large Language Models for Ethical Decision Making,2025 IEEE International Conference on Consumer Electronics (ICCE),2025,IEEE
+"Ehsan, Upol; Watkins, Elizabeth A; Wintersberger, Philipp; Manger, Carina; Kim, Sunnie SY; Van Berkel, Niels; Riener, Andreas; Riedl, Mark O;",Human-centered explainable AI (HCXAI): Reloading explainability in the era of large language models (LLMs),Extended Abstracts of the CHI Conference on Human Factors in Computing Systems,2024,
+"Spitzer, Philipp; Celis, Sebastian; Martin, Dominik; Kühl, Niklas; Satzger, Gerhard;",Looking Through the Deep Glasses: How Large Language Models Enhance Explainability of Deep Learning Models,Proceedings of Mensch und Computer 2024,2024,
+"Mohammadi, Seyedali; Raff, Edward; Malekar, Jinendra; Palit, Vedant; Ferraro, Francis; Gaur, Manas;",WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions,arXiv preprint arXiv:2406.12058,2024,
+"Figênio, Mateus R; Santanché, André; Gomes-Jr, Luiz;",The Impact of Activation Patterns in the Explainability of Large Language Models–A Survey of recent advances,Escola Regional de Banco de Dados (ERBD),2024,SBC
+"Wu, Shi; Zhou, Jianlong; Dong, Yifei; Chen, Fang;",Enhancing Explainability of Deep Learning-Based ECG Diagnosis Using Large Language Models,Proceedings of the 2024 8th International Conference on Advances in Artificial Intelligence,2024,
+"Hu, Yuanyuan; Giacaman, Nasser; Donald, Claire;",Enhancing Trust in Generative AI: Investigating Explainability of LLMs to Analyse Confusion in MOOC Discussions.,LAK Workshops,2024,
+"Chen, Guanxu; Liu, Dongrui; Luo, Tao; Shao, Jing;",SEER: Self-Explainability Enhancement of Large Language Models' Representations,arXiv preprint arXiv:2502.05242,2025,
+"Amara, Jihen; König-Ries, Birgitta; Samuel, Sheeba;",Enhancing explainability in multimodal large language models using ontological context,arXiv preprint arXiv:2409.18753,2024,
+"Tan, Ting Fang; Elangovan, Kabilan; Ong, Jasmine; Shah, Nigam; Sung, Joseph; Wong, Tien Yin; Xue, Lan; Liu, Nan; Wang, Haibo; Kuo, Chang Fu;","A proposed score evaluation framework for large language models: Safety, consensus, objectivity, reproducibility and explainability",arXiv preprint arXiv:2407.07666,2024,
+"Bogaert, Jeremie; Standaert, François-Xavier;",A question on the explainability of large language models and the word-level univariate first-order plausibility assumption,arXiv preprint arXiv:2403.10275,2024,
+"Held, Jan; Itani, Hani; Cioppa, Anthony; Giancola, Silvio; Ghanem, Bernard; Van Droogenbroeck, Marc;",X-vars: Introducing explainability in football refereeing with multi-modal large language models,Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition,2024,
+"Pramanik, Vishal; Maliha, Maisha; Jha, Sumit Kumar;",Enhancing Integrated Gradients Using Emphasis Factors and Attention for Effective Explainability of Large Language Models,,,
+"Tan, Ting Fang; Elangovan, Kabilan; Ong, Jasmine Chiat Ling; Lee, Aaron; Shah, Nigam H; Sung, Joseph JY; Wong, Tien Yin; Lan, Xue; Liu, Nan; Wang, Haibo;","A Proposed SCORE Evaluation Framework for Large Language Models–Safety, Consensus & Context, Objectivity, Reproducibility and Explainability","Consensus & Context, Objectivity, Reproducibility and Explainability",,
+"Chen, Yanfang; Chen, Ding; Song, Shichao; Niu, Simin; Wang, Hanyu; Tang, Zeyun; Xiong, Feiyu; Li, Zhiyu;",Hrde: Retrieval-augmented large language models for chinese health rumor detection and explainability,arXiv preprint arXiv:2407.00668,2024,
+"Paul, Anthony Lawrence;",Improving Explainability in Large Language Models (LLMs),,,
+"Shui, Xia; Ru, Zhihao;",Bridging the Gap Between Explainability and Large Language Models,,2025,
+"Li, Lingfang; Sen, Procheta;",Unraveling the Influence of Training Data and Internal Structures in Large Language Models for Enhanced Explainability (Student Abstract),Proceedings of the AAAI Conference on Artificial Intelligence,2025,
+"Romero, Ma Angelina Alarcón; Trejo, José Antonio Orizaga; Mota, Daniel Hernández; Villalpando, Luis Fernando Baltazar; Herrera, Ma Hidalia Cruz;","Enhancing Explainability, Privacy, and Fairness in Recidivism Prediction through Local LLMs and Synthetic data",International Journal of Combinatorial Optimization Problems and Informatics,2025,International Journal of Combinatorial Optimization Problems & Informatics
+Adrian M.P. Brasoveanu; Arno Scharl; Lyndon J.B. Nixon; Răzvan Andonie,Visualizing Large Language Models: A Brief Survey,,,IEEE
+Zina Chkirbene; Ridha Hamila; Ala Gouissem; Unal Devrim,"Large Language Models (LLM) in Industry: A Survey of Applications, Challenges, and Trends",,,IEEE
+Ishika Shruti; Amol Kumar; Arjun Seth; Rajeev Ranjan N,Responsible Generative AI: A Comprehensive Study to Explain LLMs,,,IEEE
+"Eric Mugnier, Emmanuel Anaya Gonzalez, Nadia Polikarpova, Ranjit Jhala, and Zhou Yuanyuan",Laurel: Unblocking Automated Verification with Large Language Models,,2025,ACM
+"Michael R. Lyu, Baishakhi Ray, Abhik Roychoudhury, Shin Hwei Tan, and Patanamon Thongtanunam",Automatic Programming: Large Language Models and Beyond,,2024,ACM
+"Quanjun Zhang, Weifeng Sun, Chunrong Fang, Bowen Yu, Hongyan Li, Meng Yan, Jianyi Zhou, and Zhenyu Chen",Exploring Automated Assertion Generation via Large Language Models,,2025,ACM
+"Xin Wang, Hong Chen, Zirui Pan, Yuwei Zhou, Chaoyu Guan, Lifeng Sun, and Wenwu Zhu",Automated Disentangled Sequential Recommendation with Large Language Models,,2025,ACM
+"Sirui Huang, Qian Li, Haoran Yang, Dianer Yu, Qing Li, and Guandong Xu",Causal Time-aware News Recommendations with Large Language Models,,2025,ACM
+"Wenyu Mao, Jiancan Wu, Weijian Chen, Chongming Gao, Xiang Wang, and Xiangnan He",Reinforced Prompt Personalization for Recommendation with Large Language Models,,2025,ACM
+"Lei Chen, Chen Gao, Xiaoyi Du, Hengliang Luo, Depeng Jin, Yong Li, and Meng Wang",Enhancing ID-based Recommendation with Large Language Models,,2024,ACM
+"Song Wang, Yaochen Zhu, Haochen Liu, Zaiyi Zheng, Chen Chen, and Jundong Li",Knowledge Editing for Large Language Models: A Survey,,2024,ACM
+Daniel E. O'Leary Jr,USING LARGE LANGUAGE MODELS FOR ARMCHAIR AUDITORS,,2024,ACM
+"Rudolf Chow, King Yiu Suen, and Albert Y.S. Lam",On Leveraging Large Language Models for Multilingual Intent Discovery,,2025,ACM
+"Mirko Franco, Ombretta Gaggi, and Claudio E. Palazzi",Integrating Content Moderation Systems with Large Language Models,,2024,ACM
+"Andrew Blinn, Xiang Li, June Hyung Kim, and Cyrus Omar",Statically Contextualizing Large Language Models with Typed Holes,,2024,ACM
+"Xu Huang, Jianxun Lian, Yuxuan Lei, Jing Yao, Defu Lian, and Xing Xie",Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations,,2025,ACM
+"Jianchao Ji, Zelong Li, Shuyuan Xu, Wenyue Hua, Juntao Tan, Haoming Gong, and Yongfeng Zhang",Probing the Symbolic Logical Reasoning Ability of Large Language Models,,2025,ACM
+"Badhan Chandra Das, M. Hadi Amini, and Yanzhao Wu",Security and Privacy Challenges of Large Language Models: A Survey,,2025,ACM
+"Qiang Zhang, Keyan Ding, Tianwen Lv, Xinda Wang, Qingyu Yin, Yiwen Zhang, Jing Yu, Yuhao Wang, Xiaotong Li, Zhuoyi Xiang, Xiang Zhuang, Zeyuan Wang, Ming Qin, Mengyao Zhang, Jinlu Zhang, Jiyu Cui, Renjun Xu, Hongyang Chen, Xiaohui Fan, Huabin Xing, and Huajun Chen",Scientific Large Language Models: A Survey on Biological &amp; Chemical Domains,,2025,ACM
+"Haoran Xin, Ying Sun, Chao Wang, and Hui Xiong",LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models,,2025,ACM
+"Chen Fang, Yidong Wang, Yunze Song, Qingqing Long, Wang Lu, Linghui Chen, Guihai Feng, Yuanchun Zhou, and Xin Li",How do Large Language Models understand Genes and Cells,,2024,ACM
+"Haiyan Zhao, Hanjie Chen, Fan Yang, Ninghao Liu, Huiqi Deng, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, and Mengnan Du",Explainability for Large Language Models: A Survey,,2024,ACM
+"Yue Zheng, Yuhao Chen, Bin Qian, Xiufang Shi, Yuanchao Shu, and Jiming Chen","A Review on Edge Large Language Models: Design, Execution, and Applications",,2025,ACM
+"Xinyi Hou, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo, John Grundy, and Haoyu Wang",Large Language Models for Software Engineering: A Systematic Literature Review,,2024,ACM
+"Mengxi Zhang, Huaxiao Liu, Changhao Du, Tengmei Wang, Han Li, Pei Huang, and Chunyang Chen",Distinguishing GUI Component States for Blind Users using Large Language Models,,2025,ACM
+Victor Giannakouris and Immanuel Trummer,Î»-Tune: Harnessing Large Language Models for Automated Database System Tuning,,2025,ACM
+"Benjamin Ampel, Chi-Heng Yang, James Hu, and Hsinchun Chen",Large Language Models for Conducting Advanced Text Analytics Information Systems Research,,2025,ACM
+"Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Linyi Yang, Kaijie Zhu, Hao Chen, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, and Xing Xie",A Survey on Evaluation of Large Language Models,,2024,ACM
+"Zhiyuan Wang, Fangxu Yuan, Virginia LeBaron, Tabor Flickinger, and Laura E. Barnes",PALLM: Evaluating and Enhancing PALLiative Care Conversations with Large Language Models,,2025,ACM
+Diego Carraro and Derek Bridge,Enhancing Recommendation Diversity by Re-ranking with Large Language Models,,2024,ACM
+"Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Hao Zhang, Yong Liu, Chuhan Wu, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang, and Weinan Zhang",How Can Recommender Systems Benefit from Large Language Models: A Survey,,2025,ACM
+"Ashly Ann Jo, Ebin Deni Raj, and Jayakrushna Sahoo",Efficiency and Performance Optimization in Large Language Models through IB Fine-Tuning,,2025,ACM
+"Qinbin Li, Junyuan Hong, Chulin Xie, Jeffrey Tan, Rachel Xin, Junyi Hou, Xavier Yin, Zhun Wang, Dan Hendrycks, Zhangyang Wang, Bo Li, Bingsheng He, and Dawn Song",LLM-PBE: Assessing Data Privacy in Large Language Models,,2024,ACM
+Francesco Periti and Stefano Montanelli,Lexical Semantic Change through Large Language Models: a Survey,,2024,ACM
+"Keqin Bao, Jizhi Zhang, Wenjie Wang, Yang Zhang, Zhengyi Yang, Yanchen Luo, Chong Chen, Fuli Feng, and Qi Tian",A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems,,2025,ACM
+"Qi Yang, Aleksandr Farseev, Marlo Ongpin, Alfred Huang, Yu-Yi Chu-Farseeva, Da-Min You, Kirill Lepikhin, and Sergey Nikolenko",Fusing Predictive and Large Language Models for Actionable Recommendations In Creative Marketing,,2025,ACM
+"Chenyuan Yang, Yinlin Deng, Runyu Lu, Jiayi Yao, Jiawei Liu, Reyhaneh Jabbarvand, and Lingming Zhang",WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models,,2024,ACM
+"Thomas Weber, Maximilian Brandmaier, Albrecht Schmidt, and Sven Mayer",Significant Productivity Gains through Programming with Large Language Models,,2024,ACM
+"Anastasiia Grishina, Vadim Liventsev, Aki H\""{a}rm\""{a}, and Leon Moonen",Fully Autonomous Programming Using Iterative Multi-Agent Debugging with Large Language Models,,2025,ACM
+"Huili Wang, Chuhan Wu, Yongfeng Huang, and Tao Qi",Learning Human Feedback from Large Language Models for Content Quality-aware Recommendation,,2025,ACM
+"Gabriele Civitarese, Michele Fiori, Priyankar Choudhary, and Claudio Bettini",Large Language Models are Zero-Shot Recognizers for Activities of Daily Living,,2025,ACM
+Iain J. Cruickshank and Lynnette Hui Xian Ng,Prompting and Fine-Tuning Open-Sourced Large Language Models for Stance Classification,,2025,ACM
+"Xuanhe Zhou, Guoliang Li, Zhaoyan Sun, Zhiyuan Liu, Weize Chen, Jianming Wu, Jiesi Liu, Ruohang Feng, and Guoyang Zeng",D-Bot: Database Diagnosis System using Large Language Models,,2024,ACM
+"Sahil Mishra, Ujjwal Sudev, and Tanmoy Chakraborty",FLAME: Self-Supervised Low-Resource Taxonomy Expansion Using Large Language Models,,2024,ACM
+"Jingyu Pan, Guanglei Zhou, Chen-Chia Chang, Isaac Jacobson, Jiang Hu, and Yiran Chen",A Survey of Research in Large Language Models for Electronic Design Automation,,2025,ACM
+"Runjie Yu, Weizhou Huang, Shuhan Bai, Jian Zhou, and Fei Wu",AquaPipe: A Quality-Aware Pipeline for Knowledge Retrieval and Large Language Models,,2025,ACM
+"Zhen Zhu, Yibo Wang, Shouqing Yang, Lin Long, Runze Wu, Xiu Tang, Junbo Zhao, and Haobo Wang",CORAL: Collaborative Automatic Labeling System Based on Large Language Models,,2024,ACM
+"Minh-Thanh Bui, Matteo Boffa, Rodolfo Vieira Valentim, Jose Manuel Navarro, Fuxing Chen, Xiaosheng Bao, Zied Ben Houidi, and Dario Rossi",A Systematic Comparison of Large Language Models Performance for Intrusion Detection,,2024,ACM
+"Haopeng Zhang, Philip S. Yu, and Jiawei Zhang",A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models,,2025,ACM
+"Fengjie Li, Jiajun Jiang, Jiajun Sun, and Hongyu Zhang",Hybrid Automated Program Repair by Combining Large Language Models and Program Analysis,,2025,ACM
+"Jayr Pereira, Andre Assumpcao, Julio Trecenti, Luiz Airosa, Caio Lente, Jhonatan Cl\'{e}to, Guilherme Dobins, Rodrigo Nogueira, Luis Mitchell, and Roberto Lotufo",INACIA: Integrating Large Language Models in Brazilian Audit Courts: Opportunities and Challenges,,2025,ACM
+"Gun Il Kim, Sunga Hwang, and Beakcheol Jang",Efficient Compressing and Tuning Methods for Large Language Models: A Systematic Literature Review,,2025,ACM
+Grace Ataguba and Rita Orji,Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management,,2025,ACM
+"Fan Liu, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, and Mohan Kankanhalli",Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models,,2025,ACM
+"Yunjia Xi, Weiwen Liu, Jianghao Lin, Muyan Weng, Xiaoling Cai, Hong Zhu, Jieming Zhu, Bo Chen, Ruiming TANG, Yong Yu, and Weinan Zhang",Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models,,2025,ACM
+"Gina Sprint, Maureen Schmitter-Edgecombe, Raven Weaver, Lisa Wiese, and Diane J. Cook",CogProg: Utilizing Large Language Models to Forecast In-the-moment Health Assessment,,2024,ACM
+"Mengyi Yan, Yaoshu Wang, Yue Wang, Xiaoye Miao, and Jianxin Li",GIDCL: A Graph-Enhanced Interpretable Data Cleaning Framework with Large Language Models,,2024,ACM
+"Kedar Thiagarajan, Esteban Carisimo, and Fabi\'{a}n E. Bustamante",The Aleph: Decoding Geographic Information from DNS PTR Records Using Large Language Models,,2025,ACM
+"Ting Zhang, Ivana Clairine Irsan, Ferdian Thung, and David Lo",Revisiting Sentiment Analysis for Software Engineering in the Era of Large Language Models,,2025,ACM
+"Zhenyu Xu, Hailin Xu, Zhouyang Lu, Yingying Zhao, Rui Zhu, Yujiang Wang, Mingzhi Dong, Yuhu Chang, Qin Lv, Robert P. Dick, Fan Yang, Tun Lu, Ning Gu, and Li Shang",Can Large Language Models Be Good Companions? An LLM-Based Eyewear System with Conversational Common Ground,,2024,ACM
+"Zuoli Tang, Zhaoxin Huan, Zihao Li, Xiaolu Zhang, Jun Hu, Chilin Fu, Jun Zhou, Lixin Zou, and Chenliang Li",One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems,,2024,ACM
+"Juan Morales-Garc\'{\i}a, Antonio Llanes, Francisco Arcas-T\'{u}nez, and Fernando Terroso-S\'{a}enz",Developing Time Series Forecasting Models with Generative Large Language Models,,2024,ACM
+"Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, and Philip Yu",A Survey of Text Watermarking in the Era of Large Language Models,,2024,ACM
+"Martin Weyssow, Xin Zhou, Kisub Kim, David Lo, and Houari Sahraoui",Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models,,2025,ACM
+"Lizhou Fan, Lingyao Li, Zihui Ma, Sanggyu Lee, Huizi Yu, and Libby Hemphill",A Bibliometric Review of Large Language Models Research from 2017 to 2023,,2024,ACM
+Eric D. Manley,Getting Started with Large Language Models for the CS Curriculum,,2024,ACM
+"Cuiyun Gao, Xing Hu, Shan Gao, Xin Xia, and Zhi Jin",The Current Challenges of Software Engineering in the Era of Large Language Models,,2025,ACM
+"Yuxi Li, Yi Liu, Gelei Deng, Ying Zhang, Wenjia Song, Ling Shi, Kailong Wang, Yuekang Li, Yang Liu, and Haoyu Wang",Glitch Tokens in Large Language Models: Categorization Taxonomy and Effective Detection,,2024,ACM
+"Chuanpeng Yang, Yao Zhu, Wang Lu, Yidong Wang, Qian Chen, Chenlong Gao, Bingjie Yan, and Yiqiang Chen","Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application",,2024,ACM
+"Ningke Li, Yuekang Li, Yi Liu, Ling Shi, Kailong Wang, and Haoyu Wang",Drowzee: Metamorphic Testing for Fact-Conflicting Hallucination Detection in Large Language Models,,2024,ACM
+"Stefano Lambiase, Gemma Catolino, Fabio Palomba, Filomena Ferrucci, and Daniel Russo",Investigating the Role of Cultural Values in Adopting Large Language Models for Software Engineering,,2025,ACM
+"Zichuan Fu, Xiangyang Li, Chuhan Wu, Yichao Wang, Kuicai Dong, Xiangyu Zhao, Mengchen Zhao, Huifeng Guo, and Ruiming Tang",A Unified Framework for Multi-Domain CTR Prediction via Large Language Models,,2024,ACM
+"Pingchuan Ma, Zhaoyu Wang, Zongjie Li, Zhenlan Ji, Ao Sun, Juergen Rahmel, and Shuai Wang",Reeq: Testing and Mitigating Ethically Inconsistent Suggestions of Large Language Models with Reflective Equilibrium,,2025,ACM
+"Shuo Liu, Lin Zhang, Weidong Liu, Jianfeng Zhang, Donghui Gao, and Xiaofeng Jia",The Evaluation Framework and Benchmark for Large Language Models in the Government Affairs Domain,,2025,ACM
+"Nathaniel Pinckney, Christopher Batten, Mingjie Liu, Haoxing Ren, and Brucek Khailany",Revisiting VerilogEval: A Year of Improvements in Large-Language Models for Hardware Code Generation,,2025,ACM
+"Raul Castro Fernandez, Aaron J. Elmore, Michael J. Franklin, Sanjay Krishnan, and Chenhao Tan",How Large Language Models Will Disrupt Data Management,,2023,ACM
+"Sorouralsadat Fatemi, Yuheng Hu, and Maryam Mousavi",A Comparative Analysis of Instruction Fine-Tuning Large Language Models for Financial Text Classification,,2025,ACM
+"Zhiang Dong, Liya Hu, Jingyuan Chen, Zhihua Wang, and Fei Wu",Comprehend Then Predict: Prompting Large Language Models for Recommendation with Semantic and Collaborative Data,,2025,ACM
+"Jun-Peng Zhu, Peng Cai, Kai Xu, Li Li, Yishen Sun, Shuai Zhou, Haihuang Su, Liu Tang, and Qi Liu",AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models,,2024,ACM
+"Yuanjie Lyu, Zhiyu Li, Simin Niu, Feiyu Xiong, Bo Tang, Wenjin Wang, Hao Wu, Huanyong Liu, Tong Xu, and Enhong Chen",CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models,,2025,ACM
+"Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, and Ting Liu","A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",,2025,ACM
+"Madeline Endres, Sarah Fakhoury, Saikat Chakraborty, and Shuvendu K. Lahiri",Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions? Proc,,2024,ACM
+"Elahe Hosseini, Abhinav Srinivas, Najmeh Nazari, Charity Hale, Setareh Rafatirad, and Houman Homayoun",Large Language Models for Opioid-Induced Respiratory Depression Prediction in Hospitalized Patients: A Retrospective Study,,2025,ACM
+"Ju Fan, Zihui Gu, Songyue Zhang, Yuxin Zhang, Zui Chen, Lei Cao, Guoliang Li, Samuel Madden, Xiaoyong Du, and Nan Tang",Combining Small Language Models and Large Language Models for Zero-Shot NL2SQL,,2024,ACM
+"Junghwan Rhee, Aakankshya Shrestha, Gang Qian, Fei Zuo, Jicheng Fu, Myungah Park, Xianshan Qu, Goutam Mylavarapu, and Hong Sung",An Evaluation on the Impact of Large Language Models on Computer Science Curricula,,2024,ACM
+"Yongda Yu, Guoping Rong, Haifeng Shen, He Zhang, Dong Shao, Min Wang, Zhao Wei, Yong Xu, and Juhong Wang",Fine-Tuning Large Language Models to Improve Accuracy and Comprehensibility of Automated Code Review,,2024,ACM
+"Amara Tariq, Shubham Trivedi, Aisha Urooj, Gokul Ramasamy, Sam Fathizadeh, Matthew Stib, Nelly Tan, Bhavik Patel, and Imon Banerjee",Patient-centric Summarization of Radiology Findings using Two-step Training of Large Language Models,,2024,ACM
+"Jieke Shi, Zhou Yang, and David Lo",Efficient and Green Large Language Models for Software Engineering: Vision and the Road Ahead,,2024,ACM
+"Aritra Hota, Soumyajit Chatterjee, and Sandip Chakraborty",Evaluating Large Language Models as Virtual Annotators for Time-series Physical Sensing Data,,2024,ACM
+"Roberto Navigli, Simone Conia, and Bj\""{o}rn Ross","Biases in Large Language Models: Origins, Inventory, and Discussion",,2023,ACM
+"Tom Williams, Cynthia Matuszek, Ross Mead, and Nick Depalma",Scarecrows in Oz: The Use of Large Language Models in HRI,,2024,ACM
+Ping Fan Ke and Ka Chung Ng,Human-AI Synergy in Survey Development: Implications from Large Language Models in Business and Research,,2025,ACM
+"Buse Carik, Kaike Ping, Xiaohan Ding, and Eugenia H. Rho","Exploring Large Language Models Through a Neurodivergent Lens: Use, Challenges, Community-Driven Workarounds, and Concerns",,2025,ACM
+"Lanling Xu, Junjie Zhang, Bingqian Li, Jinpeng Wang, Sheng Chen, Wayne Xin Zhao, and Ji-Rong Wen",Tapping the Potential of Large Language Models as Recommender Systems: A Comprehensive Framework and Empirical Analysis,,2025,ACM
+"Mengzhao Wang, Haotian Wu, Xiangyu Ke, Yunjun Gao, Xiaoliang Xu, and Lu Chen",An Interactive Multi-Modal Query Answering System with Retrieval-Augmented Large Language Models,,2024,ACM
+"Soneya Binta Hossain, Nan Jiang, Qiang Zhou, Xiaopeng Li, Wen-Hao Chiang, Yingjun Lyu, Hoan Nguyen, and Omer Tripp",A Deep Dive into Large Language Models for Automated Bug Localization and Repair,,2024,ACM
+"Feihu Jin, Yifan Liu, and Ying Tan","Derivative-Free Optimization for Low-Rank Adaptation in Large Language Models. IEEE/ACM Trans. Audio, Speech and Lang",,2024,ACM
+"Dawei Gao, Haibin Wang, Yaliang Li, Xiuyu Sun, Yichen Qian, Bolin Ding, and Jingren Zhou",Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation,,2024,ACM
+"Seungpil Lee, Woochang Sim, Donghyeon Shin, Wongyu Seo, Jiwon Park, Seokki Lee, Sanha Hwang, Sejin Kim, and Sundong Kim",Reasoning Abilities of Large Language Models: In-Depth Analysis on the Abstraction and Reasoning Corpus,,2025,ACM
+"Zejun Zhang, Zhenchang Xing, Xiaoxue Ren, Qinghua Lu, and Xiwei Xu",Refactoring to Pythonic Idioms: A Hybrid Knowledge-Driven Approach Leveraging Large Language Models,,2024,ACM
+"Zhen Yang, Fang Liu, Zhongxing Yu, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, and Ge Li",Exploring and Unleashing the Power of Large Language Models in Automated Code Translation,,2024,ACM
+"Bonan Kou, Shengmai Chen, Zhijie Wang, Lei Ma, and Tianyi Zhang",Do Large Language Models Pay Similar Attention Like Human Programmers When Generating Code? Proc,,2024,ACM
+"Haochun Wang, Sendong Zhao, Zewen Qiang, Zijian Li, Chi Liu, Nuwa Xi, Yanrui Du, Bing Qin, and Ting Liu",Knowledge-tuning Large Language Models with Structured Medical Knowledge Bases for Trustworthy Response Generation in Chinese,,2025,ACM
+Anastasiia Hrytsyna and Rodrigo Alves,From Representation to Response: Assessing the Alignment of Large Language Models with Human Judgment Patterns,,2024,ACM
+Michael Chau and Jennifer Xu,"An IS Research Agenda on Large Language Models: Development, Applications, and Impacts on Business and Management",,2025,ACM
+"Yang Wu, Yao Wan, Hongyu Zhang, Yulei Sui, Wucai Wei, Wei Zhao, Guandong Xu, and Hai Jin",Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study,,2024,ACM
+"Yumeng Li, Bohong Chen, Zhong Ren, Yao-Xiang Ding, Libin Liu, Tianjia Shao, and Kun Zhou",CPoser: An Optimization-after-Parsing Approach for Text-to-Pose Generation Using Large Language Models,,2024,ACM
+"Siqiao Xue, Danrui Qi, Caigao Jiang, Fangyin Cheng, Keting Chen, Zhiping Zhang, Hongyang Zhang, Ganglin Wei, Wang Zhao, Fan Zhou, Hong Yi, Shaodong Liu, Hongjun Yang, and Faqiang Chen",Demonstration of DB-GPT: Next Generation Data Interaction System Empowered by Large Language Models,,2024,ACM
+"Jing Wei, Sungdong Kim, Hyunhoon Jung, and Young-Ho Kim",Leveraging Large Language Models to Power Chatbots for Collecting User Self-Reported Data,,2024,ACM
+"Luca Beurer-Kellner, Marc Fischer, and Martin Vechev",Prompting Is Programming: A Query Language for Large Language Models,,2023,ACM
+"Yan Wang, Xiaoning Li, Tien N. Nguyen, Shaohua Wang, Chao Ni, and Ling Ding",Natural Is the Best: Model-Agnostic Code Simplification for Pre-trained Large Language Models,,2024,ACM
+Immanuel Trummer,Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models,,2024,ACM
+Arash Dargahi Nobari and Davood Rafiei,DTT: An Example-Driven Tabular Transformer for Joinability by Leveraging Large Language Models,,2024,ACM
+"Jiayu Zhou, Manas Gaur, Amir M. Rahmani, Sharath Chandra Guntuku, Xiaofan (Fred) Jiang, and Tristan Naumann","Introduction to the Special Issue on Large Language Models, Conversational Systems, and Generative AI in Health - Part 1",,2025,ACM
+"Benjamin Feuer, Yurong Liu, Chinmay Hegde, and Juliana Freire",ArcheType: A Novel Framework for Open-Source Column Type Annotation Using Large Language Models,,2024,ACM
+"Subash Neupane, Shaswata Mitra, Sudip Mittal, Manas Gaur, Noorbakhsh Amiri Golilarz, Shahram Rahimi, and Amin Amirlatifi",MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models,,2024,ACM
+"Connor Lawless, Jakob Schoeffer, Lindy Le, Kael Rowan, Shilad Sen, Cristina St. Hill, Jina Suh, and Bahareh Sarrafzadeh",â€œI Want It That Wayâ€: Enabling Interactive Decision Support Using Large Language Models and Constraint Programming,,2024,ACM
+Anna-Katharina Dhungel,â€œThis Verdict was Created with the Help of Generative AI...?â€ On the Use of Large Language Models by Judges,,2025,ACM
+"Ahmad A Bany Abdelnabi, Bulent Soykan, Danish Bhatti, and Ghaith Rabadi",Usefulness of Large Language Models (LLMs) for Student Feedback on H&amp;P During Clerkship: Artificial Intelligence for Personalized Learning,,2025,ACM
+Huiyuan Lai and Malvina Nissim,A Survey on Automatic Generation of Figurative Language: From Rule-based Systems to Large Language Models,,2024,ACM
+"Giancarlo Crocetti, Seonwoo Bak, Daena D. Vautor-Laplaceliere, and Naqib A. Noory",Evaluating the Pedagogical Impact of Large Language Models on Programming Skills in Data Science Programs in Higher Education,,2024,ACM
+"Yuka Kaniwa, Masaki Kuribayashi, Seita Kayukawa, Daisuke Sato, Hironobu Takagi, Chieko Asakawa, and Shigeo Morishima",ChitChatGuide: Conversational Interaction Using Large Language Models for Assisting People with Visual Impairments to Explore a Shopping Mall,,2024,ACM
+"Riku Arakawa, Jill Fain Lehman, and Mayank Goel",PrISM-Q&amp;A: Step-Aware Voice Assistant on a Smartwatch Enabled by Multimodal Procedure Tracking and Large Language Models,,2024,ACM
+"Jinlong Xue, Yayue Deng, Yingming Gao, and Ya Li","Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation. IEEE/ACM Trans. Audio, Speech and Lang",,2024,ACM
+"Qian Wan, Siying Hu, Yu Zhang, Piaohong Wang, Bo Wen, and Zhicong Lu",It Felt Like Having a Second Mind: Investigating Human-AI Co-creativity in Prewriting with Large Language Models,,2024,ACM
+"Spencer Presley, Cole Barbes, and Junyi Tu",Enhancing Academic Insight: Leveraging Web of Science Data with Large Language Models for Comprehensive Faculty and Article Analysis at Salisbury University*,,2024,ACM
+Alexey Karev and Dong Xu,ConSCompF: Consistency-focused Similarity Comparison Framework for Generative Large Language Models,,2025,ACM
+"Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, and Xing Xie",PromptBench: a unified library for evaluation of large language models,,2024,ACM
+"Moschoula Pternea, Prerna Singh, Abir Chakraborty, Yagna Oruganti, Mirco Milletari, Sayli Bapat, and Kebei Jiang",The RL/LLM Taxonomy Tree: Reviewing Synergies Between Reinforcement Learning and Large Language Models,,2024,ACM
+"Evan King, Haoxiang Yu, Sangsu Lee, and Christine Julien",Sasha: Creative Goal-Oriented Reasoning in Smart Homes with Large Language Models,,2024,ACM
+"Xuhai Xu, Bingsheng Yao, Yuanzhe Dong, Saadia Gabriel, Hong Yu, James Hendler, Marzyeh Ghassemi, Anind K. Dey, and Dakuo Wang",Mental-LLM: Leveraging Large Language Models for Mental Health Prediction via Online Text Data,,2024,ACM
+"Zachary Englhardt, Chengqian Ma, Margaret E. Morris, Chun-Cheng Chang, Xuhai ""Orson"" Xu, Lianhui Qin, Daniel McDuff, Xin Liu, Shwetak Patel, and Vikram Iyer",From Classification to Clinical Insights: Towards Analyzing and Reasoning About Mobile and Behavioral Health Data With Large Language Models,,2024,ACM
+"Ayachitula, Sriya (59314044600)",Poster: Exploring Explainability Techniques for Large Language Model Classification Predictions,,2024,Scopus
+"Wu, Shi (59697693300); Zhou, Jianlong (35304393400); Dong, Yifei (57938222100); Chen, Fang (55714370100)",Enhancing Explainability of Deep Learning-Based ECG Diagnosis Using Large Language Models,,2025,Scopus
+"Hu, Yuanyuan (57215928954); Giacaman, Nasser (24528603500); Donald, Claire (52163422600)",Enhancing Trust in Generative AI: Investigating Explainability of LLMs to Analyse Confusion in MOOC Discussions,,2024,Scopus
+"Vítor N. Lourenço, Mohnish Dubey, Yunfei Bai, Audrey Depeige, Vivek Jain",An Explainable Natural Language Framework for Identifying and Notifying Target Audiences In Enterprise Communication,,2025,
+"Ioannis Papagiannopoulos
+
+Orcid
+, 
+
+Hercules Koutalidis
+
+Orcid
+, 
+
+Panagiota Rempi
+
+Orcid
+, 
+
+Christos Ntanos
+
+Orcid
+, 
+
+Dimitrios Askounis",Comparison of explainability methods for hallucination analysis in LLMs,,2025,
+Leonardo Ranaldi,Survey on the Role of Mechanistic Interpretability in Generative AI,,2025,
+"Muhammad Sharshar, Ahmad Mohammad Saber, Davor Svetinovic, Amr M. Youssef, Deepa Kundur, Ehab F. El-Saadany",Large Language Model-Based Framework for Explainable Cyberattack Detection in Automatic Generation Control Systems,,2025,
+"Munib Mesinovic, Peter Watkinson & Tingting Zhu ",Explainability in the age of large language models for healthcare,,2025,
+"Ahan Ganguly, Ankan Dey, Sourik Bhuiya, Indranil Roy Banik, Subhabrata Sengupta & Rupayan Das",Augmenting Course Recommendations with Explainable AI: A Hybrid Approach Utilizing Large Language Models,,,
+"Lin Sheng
+, 
+Fangyuan Chang
+, 
+Qinghua Sun
+, 
+Danba Wangzha
+, 
+Zhenyu Gu",Uncertainty reports as explainable AI: A cognitive-adaptive framework for human-AI decision systems in context tasks,,2025,Scopus
+"Sukanth Korkanti
+Sydney, Australia","Developing Explainable AI Models for Personalized Treatment Recommendations Using LLMs and EHR Data
+",,2025,IEEE
+"Shova Kuikel, Aritran Piplai, Palvi Aggarwal","Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability",,2025,
+"Eva Paraschou, Ioannis Arapakis, Sofia Yfantidou, Sebastian Macaluso, Athena Vakali",Mind the XAI Gap: A Human-Centered LLM Framework for Democratizing Explainable AI,,2025,The 3rd World Conference on eXplainable Artificial Intelligence.
+"Dipak P Upadhyaya 1, Katrina Prantzalos 1, Pedram Golnari 1, Aasef G Shaikh 2, Subhashini Sivagnanam 3, Amitava Majumdar 3, Fatema F Ghasia 4, Satya S Sahoo 1","Explainable Artificial Intelligence (XAI) in the Era of Large Language Models: Applying an XAI Framework in Pediatric Ophthalmology Diagnosis using the Gemini Model
+",,2025,PubMed
+" George Papageorgiou 1ORCID,Vangelis Sarlis 1ORCID,Manolis Maragoudakis 2,*ORCID andChristos Tjortjis 1ORCID
+1
+","Hybrid Multi-Agent GraphRAG for E-Government: Towards a Trustworthy AI Assistant
+",,2025,MDPI
+"Yukun Zhang, Qi Dong",Multi-Scale Manifold Alignment: A Unified Framework for Enhanced Explainability of Large Language Models,,2025,
+"Zeinab Dehghani, Mohammed Naveed Akram, Koorosh Aslansefat, Adil Khan, Yiannis Papadopoulos","Explaining Large Language Models with gSMILE
+",,2025,
+Sohan Gyawali; Yili Jiang; Jiaqi Huang,"In-Progress: Augmenting Explainable AI with LLMs to Enhance User Trust in Intelligent Transportation Systems
+",,2025,IEEE
+"POPPI, SAMUELE","Responsible AI in Vision and Language: Ensuring Safety, Ethics, and Transparency in Modern Models
+",,2025,
+Blessing Ogbuokiri,Trustworthy and Responsible LLM,,2025,
+"Ghiasnezhad Omran, Pouya
+Dixit, Tanya
+Nikzad, Mohammad (Nick)
+Taylor, Kerry",Explainability in LLMs and the Role of Knowledge Representation and Reasoning: A Survey,,2025,
+"David Herrera-Poyatos, Carlos Peláez-González, Cristina Zuheros, Virilo Tejedor, Rosana Montes, Francisco Herrera","Triadic Fusion of Cognitive, Functional, and Causal Dimensions for Explainable LLMs: The TAXAL Framework
+",,2025,
+"N. Jean, G. Le Pera",Bridging Human Cognition and AI: A Framework for Explainable Decision-Making Systems,,2025,
