@@ -1,15 +1,21 @@
-# Empirical Evidence on Explainability, Accuracy, and Energy Trade-offs in Code-Generating LLMs: A Structured Literature Review
-Replication Package for the "Empirical Evidence on Explainability, Accuracy, and Energy Trade-offs in Code-Generating LLMs: A Structured Literature Review" paper
+# A Systematic Literature Review of Quality Characteristics for Code-Generating Large Language Models
+Replication Package for the "A Systematic Literature Review of Quality Characteristics for Code-Generating Large Language Models" paper submitted under review at Quality Evaluation of ML-based Software Systems 2026.
 
-Background: The increasing adoption of Large Language Models (LLMs) for AI-assisted code generation in high-stakes domains, such as healthcare and legal applications, requires a structured approach to model selection. Key concerns include explainability, accuracy, and energy consumption, as these factors directly impact compliance, accountability, and sustainability. 
+Code-generating Large Language Models (LLMs) raise new challenges for the
+quality evaluation of ML-based software. We investigate three quality
+characteristics, explainability, accuracy, and energy consumption, through a
+systematic review of 142 peer-reviewed studies published from 2023 onward.
 
-Aims: This study aims to investigate how explainability, accuracy, and energy consumption are defined, evaluated, and related in the context of code-generating LLMs. Specifically, we aim to: (i) establish definitions for explainability, accuracy, and energy consumption in the context of LLMs, (ii) investigate the utilized explainability methods, (iii) explore the current frameworks that consider the relationship between at least one of the three factors, and (iv) identify the most prevalent dimensions of these factors in peer-reviewed studies published since 2023
+We analyze how these characteristics are operationalized, which methods and
+frameworks are used to evaluate them, and how their underlying dimensions are
+covered in the literature. The results show fragmented evaluation practices:
+explainability mainly relies on actionability and post-hoc methods, accuracy is
+largely benchmark-oriented, and energy-related work focuses on model
+optimization and inference workload. Integrated evaluation across all three
+characteristics remains rare.
 
-Method: We adopted an integrated methodology combining automated database searches, backward and forward snowballing, and qualitative thematic analysis. The review focused on peer-reviewed studies published since 2023 that investigate at least one of the three factors in the context of LLM-based code generation.
-
-Results: The analysis reveals that explainability, accuracy, and energy consumption are predominantly investigated in isolation, with limited research examining their combined trade-offs. Existing evaluation frameworks rarely provide integrated support for balancing these three factors during model selection. Furthermore, definitions and operationalizations of the three factors vary considerably across studies, limiting comparability and reproducibility.
-
-Conclusions: The lack of integrated evaluation approaches obstructs informed selection of code-generating LLMs for high-stakes domains. This study provides a structured synthesis of the current state of research, highlights inconsistencies in evaluation practices, and identifies concrete research gaps for future work on integrated and sustainable code-generating LLM assessment frameworks.
+These findings provide empirical building blocks for multidimensional and
+trade-off-aware quality evaluation of code-generating LLM-based software.
 
 ## Overview of the replication package
 This replication package is structured as follows:
