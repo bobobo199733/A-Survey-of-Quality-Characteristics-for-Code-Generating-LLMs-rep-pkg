@@ -1,21 +1,20 @@
-# A Systematic Literature Review of Quality Characteristics for Code-Generating Large Language Models
-Replication Package for the "A Systematic Literature Review of Quality Characteristics for Code-Generating Large Language Models" paper submitted under review at Quality Evaluation of ML-based Software Systems 2026.
+# A Survey of Quality Characteristics for Code-Generating Large Language Models
+Replication Package for the "A Survey of Quality Characteristics for Code-Generating Large Language Models" paper submitted under review at Quality Evaluation of ML-based Software Systems 2026.
 
-Code-generating Large Language Models (LLMs) raise new challenges for the
-quality evaluation of ML-based software. We investigate three quality
-characteristics, explainability, accuracy, and energy consumption, through a
-systematic review of 142 peer-reviewed studies published from 2023 onward.
+Code-generating Large Language Models (LLMs) raise new challenges for
+quality evaluation in ML-based software. We survey 142 peer-reviewed studies
+on explainability, accuracy, and energy consumption using structured database
+searches and recursive snowballing.
 
-We analyze how these characteristics are operationalized, which methods and
-frameworks are used to evaluate them, and how their underlying dimensions are
-covered in the literature. The results show fragmented evaluation practices:
-explainability mainly relies on actionability and post-hoc methods, accuracy is
-largely benchmark-oriented, and energy-related work focuses on model
-optimization and inference workload. Integrated evaluation across all three
-characteristics remains rare.
+We examine operational dimensions, evaluation methods, research facets, and
+geographical coverage. The results show fragmented practices: explainability
+emphasizes actionability and post-hoc methods, accuracy is benchmark oriented,
+and energy research focuses on optimization and inference workload. Integrated
+evaluation remains rare, and the United States and China account for 54.9%
+of the corpus.
 
-These findings provide empirical building blocks for multidimensional and
-trade-off-aware quality evaluation of code-generating LLM-based software.
+These findings support multidimensional and trade-off-aware quality evaluation
+of code-generating LLM-based software.
 
 ## Overview of the replication package
 This replication package is structured as follows:
