@@ -10,7 +10,7 @@ We examine operational dimensions, evaluation methods, research facets, and
 geographical coverage. The results show fragmented practices: explainability
 emphasizes actionability and post-hoc methods, accuracy is benchmark oriented,
 and energy research focuses on optimization and inference workload. Integrated
-evaluation remains rare, and the United States and China account for 54.9%
+evaluation remains rare, and the United States and China account for 54.9\%
 of the corpus.
 
 These findings support multidimensional and trade-off-aware quality evaluation
