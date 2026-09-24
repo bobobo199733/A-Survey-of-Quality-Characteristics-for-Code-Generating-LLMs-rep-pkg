@@ -1,5 +1,5 @@
 # A Survey of Quality Characteristics for Code-Generating Large Language Models
-Replication Package for the "A Survey of Quality Characteristics for Code-Generating Large Language Models" paper submitted under review at Quality Evaluation of ML-based Software Systems 2026.
+Replication Package for the "A Survey of Quality Characteristics for Code-Generating Large Language Models" paper accepted at Quality Evaluation of ML-based Software Systems 2026.
 
 Code-generating Large Language Models (LLMs) raise new challenges for
 quality evaluation in ML-based software. We survey 142 peer-reviewed studies
